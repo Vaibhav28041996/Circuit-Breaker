@@ -1,4 +1,4 @@
-package com.ashokit;
+package com.vaibhavtech;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
